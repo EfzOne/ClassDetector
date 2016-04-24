@@ -1,0 +1,16 @@
+{
+  "organization": {
+    "max": 50
+  },
+  "facility": {
+    "max": 12
+  },
+  "courses": [
+    "physics",
+    "chemistry",
+    "geography",
+    "physiology",
+    "history",
+    "politics"
+  ]
+}
